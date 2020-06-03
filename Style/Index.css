@@ -1,0 +1,91 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  padding: 5.1%;
+}
+
+
+.title {
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 6px;
+  text-align: center;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+  background-color: red;
+  background-color: #56836F;
+  border: solid 4px #006837;
+  padding: 5.1%;
+  margin: 0 auto;
+
+}
+
+
+
+
+.navbar {
+  display: inline-block;
+  margin-top: 0px;
+  margin-left: 8%;
+
+}
+
+.logo {
+  float: right;
+  width: 150px;
+  height: 100px;
+  margin-right: 56px;
+}
+
+ul {
+  width: 784px;
+  height: 64px;
+}
+
+.navbar-li {
+  display: inline-block;
+  margin-left: 53px;
+  font-size: 30px;
+}
+
+.navbar-li a {
+  color: #ffffff;
+}
+
+/* =============Boxes Secteion */
+
+section {
+  width: 100%;
+  height: 100%;
+
+}
+
+.container {
+  width: 617px;
+  height: 356px;
+  background-color: #FCEE21;
+  display: inline-block;
+}
+
+.box1 {
+  width: 563px;
+  height: 321px;
+  margin-left: 17px;
+  margin-top: 26px;
+}
+
+.pic1 {
+  float: right;
+}
+
+
+.p2 {
+  margin-top: 30px;
+}
